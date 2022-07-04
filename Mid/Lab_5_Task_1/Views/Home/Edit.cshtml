@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<div>
+    <form action="" method="post">
+        @if (TempData["successmsg"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["successmsg"]
+            </div>
+        }
+
+        @if (TempData["errormsg"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["errormsg"]
+            </div>
+        }
+
+        <label for="name">Name: </label>
+        <input type="text" name="Name" value="@(Model != null ? Model.Name : "")" id="name" />
+        @Html.ValidationMessage("Name", "", new { @class = "text-danger" }, "span")
+        <br />
+        <input type="submit" value="Submit" />
+    </form>
+</div>

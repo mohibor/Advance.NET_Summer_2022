@@ -1,0 +1,7 @@
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\bin\Debug\Task1.exe.config
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\bin\Debug\Task1.exe
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\bin\Debug\Task1.pdb
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\obj\Debug\Task1.exe
+D:\Study\Semesters\Summer (2022-2023)\Advance .NET\Labtasks\Mid\Lab_3\obj\Debug\Task1.pdb
